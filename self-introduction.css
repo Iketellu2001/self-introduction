@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(173, 230, 230);
+    width: 500px;
+    margin: 0 auto;
+}
+li {
+    list-style-type: square;
+    margin: 10px;
+  }
+  a {
+    font-weight: bold;
+  }
+  li {
+    list-style-type: square;
+    margin: 10px;
+    color:darkblue ;
+  }
